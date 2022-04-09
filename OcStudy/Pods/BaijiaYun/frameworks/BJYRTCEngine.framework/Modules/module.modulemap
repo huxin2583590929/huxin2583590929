@@ -1,0 +1,6 @@
+framework module BJYRTCEngine {
+  umbrella header "BJYRTCEngine.h"
+
+  export *
+  module * { export * }
+}

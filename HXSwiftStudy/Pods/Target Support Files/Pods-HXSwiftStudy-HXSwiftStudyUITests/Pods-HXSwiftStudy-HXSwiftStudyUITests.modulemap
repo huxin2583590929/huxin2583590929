@@ -1,0 +1,6 @@
+framework module Pods_HXSwiftStudy_HXSwiftStudyUITests {
+  umbrella header "Pods-HXSwiftStudy-HXSwiftStudyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

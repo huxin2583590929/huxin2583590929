@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-HypnoNerd/Pods-HypnoNerd-resources.sh
+${PODS_ROOT}/BaijiaYun/frameworks/BJLiveBase.framework/Versions/A/Resources/BJLLocalize.bundle
+${PODS_ROOT}/BaijiaYun/frameworks/BJLiveBase.framework/Versions/A/Resources/BJLMetal.bundle
+${PODS_ROOT}/BaijiaYun/frameworks/BJVideoPlayerUI.framework/Versions/A/Resources/BJVideoPlayerUI.bundle
+${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle

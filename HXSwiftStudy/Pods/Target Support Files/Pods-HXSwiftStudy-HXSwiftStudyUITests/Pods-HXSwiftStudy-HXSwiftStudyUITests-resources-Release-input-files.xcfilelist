@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-HXSwiftStudy-HXSwiftStudyUITests/Pods-HXSwiftStudy-HXSwiftStudyUITests-resources.sh
+${PODS_ROOT}/BaijiaYun/frameworks/BJLiveBase.framework/Versions/A/Resources/BJLLocalize.bundle
+${PODS_ROOT}/BaijiaYun/frameworks/BJLiveBase.framework/Versions/A/Resources/BJLMetal.bundle
+${PODS_ROOT}/BaijiaYun/frameworks/BJLiveUI.framework/Versions/A/Resources/BJLiveUI.bundle
+${PODS_ROOT}/BaijiaYun/frameworks/BJLiveUI.framework/Versions/A/Resources/BJLSurfaceClass.bundle
+${PODS_ROOT}/BaijiaYun/frameworks/BJLiveUI.framework/Versions/A/Resources/BJLInteractiveClass.bundle

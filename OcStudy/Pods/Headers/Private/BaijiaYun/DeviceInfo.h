@@ -1,0 +1,1 @@
+../../../BaijiaYun/library/DeviceInfo.h

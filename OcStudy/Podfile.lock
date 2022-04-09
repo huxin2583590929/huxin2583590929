@@ -1,0 +1,86 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - BaijiaYun/_BJHLMediaPlayer (3.0.0-beta01)
+  - BaijiaYun/_BJLiveCore (3.0.0-beta01):
+    - BaijiaYun/_BJHLMediaPlayer
+    - BaijiaYun/_ZXYB
+  - BaijiaYun/_BJVideoPlayerCore (3.0.0-beta01)
+  - BaijiaYun/_BJVideoPlayerUI (3.0.0-beta01)
+  - BaijiaYun/_ZXYB (3.0.0-beta01)
+  - BaijiaYun/BJLiveBase (3.0.0-beta01)
+  - BaijiaYun/BJLiveCore (3.0.0-beta01):
+    - BaijiaYun/_BJLiveCore
+    - BaijiaYun/BJLiveBase
+    - BaijiaYun/BJYRTCEngine
+    - BaijiaYun/Tencent
+  - BaijiaYun/BJRTCSDK (3.0.0-beta01)
+  - BaijiaYun/BJVideoPlayerCore (3.0.0-beta01):
+    - BaijiaYun/_BJVideoPlayerCore
+    - BaijiaYun/BJLiveCore
+  - BaijiaYun/BJVideoPlayerUI (3.0.0-beta01):
+    - BaijiaYun/_BJVideoPlayerUI
+    - BaijiaYun/BJVideoPlayerCore
+  - BaijiaYun/BJYIJKMediaPlayer (3.0.0-beta01)
+  - BaijiaYun/BJYRTCEngine (3.0.0-beta01):
+    - BaijiaYun/BJRTCSDK
+    - BaijiaYun/BJYIJKMediaPlayer
+    - BRTC (~> 0.7.8)
+  - BaijiaYun/Tencent (3.0.0-beta01):
+    - TXLiteAVSDK_TRTC (~> 8.4.9944)
+  - BRTC (0.7.8):
+    - TXLiteAVSDK_TRTC (~> 8.4.9944)
+    - Vloud (= 1.8.1008)
+  - Masonry (1.1.0)
+  - MJRefresh (3.7.2)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - TXLiteAVSDK_TRTC (8.4.9944)
+  - Vloud (1.8.1008)
+
+DEPENDENCIES:
+  - AFNetworking (~> 4.0.1)
+  - BaijiaYun/BJVideoPlayerUI (= 3.0.0-beta01)
+  - Masonry (~> 1.1.0)
+  - MJRefresh (~> 3.7.1)
+  - SDWebImage (~> 5.11.1)
+
+SPEC REPOS:
+  https://git.baijiashilian.com/open-ios/specs.git:
+    - BaijiaYun
+    - BRTC
+    - Vloud
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - AFNetworking
+    - Masonry
+    - MJRefresh
+    - SDWebImage
+    - TXLiteAVSDK_TRTC
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  BaijiaYun: a8ad462d288339245f28ffec25a1f249ef12d6f4
+  BRTC: 6f6ade9d52446200bb0679b273301adab8148bf2
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 30997d30b347c8e9508a4db11e3a690da0c9b85a
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  TXLiteAVSDK_TRTC: b23d0e558339396d3e34c6b39d5bebf3ed8f9700
+  Vloud: b00d40481fcc1bc0af0b641d1ebf6dd0514f8434
+
+PODFILE CHECKSUM: e19cb38edc111f22cf06f622affb4af8ee9af4c9
+
+COCOAPODS: 1.10.1

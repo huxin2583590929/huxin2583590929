@@ -1,0 +1,6 @@
+framework module BJRTCSDK {
+  umbrella header "BJRTCSDK.h"
+
+  export *
+  module * { export * }
+}
